@@ -1,0 +1,323 @@
+{
+    "exercises": [
+      {
+        "name": "Push-up",
+        "target_group": ["chest", "triceps", "shoulders"],
+        "steps": [
+          [
+            ["Get down on all fours, placing your hands slightly wider than your shoulders."],
+            ["Straighten your arms and legs."]
+          ],
+          [
+            ["Lower your body until your chest nearly touches the floor."],
+            ["Pause, then push yourself back up."]
+          ]
+        ],
+        "description": "A basic push-up works the chest, shoulders, and triceps muscles.",
+        "energy_level": 60
+      },
+      {
+        "name": "Squat",
+        "target_group": ["quadriceps", "glutes", "hamstrings"],
+        "steps": [
+          [
+            ["Stand with your feet shoulder-width apart and your toes slightly turned out."],
+            ["Bend your knees and push your hips back as if you're sitting in a chair."]
+          ],
+          [
+            ["Lower down until your thighs are parallel to the floor."],
+            ["Return to the starting position by pushing through your heels."]
+          ]
+        ],
+        "description": "A fundamental exercise that targets the lower body, particularly the thighs and glutes.",
+        "energy_level": 50
+      },
+      {
+        "name": "Plank",
+        "target_group": ["core", "shoulders", "back"],
+        "steps": [
+          [
+            ["Get into a push-up position but rest on your forearms instead of your hands."],
+            ["Ensure your body forms a straight line from your head to your feet."]
+          ],
+          [
+            ["Hold the position, engaging your core and keeping your body stable."],
+            ["Keep your breathing steady."]
+          ]
+        ],
+        "description": "An isometric exercise that strengthens the core and improves stability.",
+        "energy_level": 40
+      },
+      {
+        "name": "Lunges",
+        "target_group": ["quadriceps", "glutes", "hamstrings"],
+        "steps": [
+          [
+            ["Stand tall with your feet hip-width apart."],
+            ["Take a big step forward with your right leg."]
+          ],
+          [
+            ["Lower your body until your right thigh is parallel to the floor and your left knee is nearly touching the ground."],
+            ["Push back up to the starting position and repeat with the other leg."]
+          ]
+        ],
+        "description": "A lower-body exercise that targets the legs and glutes, improving balance and coordination.",
+        "energy_level": 55
+      },
+      {
+        "name": "Bicep Curls",
+        "target_group": ["biceps"],
+        "steps": [
+          [
+            ["Stand with a dumbbell in each hand, arms fully extended at your sides."],
+            ["Keep your elbows close to your torso."]
+          ],
+          [
+            ["Curl the weights while contracting your biceps until the dumbbells are at shoulder level."],
+            ["Slowly lower the dumbbells back to the starting position."]
+          ]
+        ],
+        "description": "An isolation exercise that targets the biceps, helping to build arm strength.",
+        "energy_level": 30
+      },
+      {
+        "name": "Burpee",
+        "target_group": ["full body", "cardio", "chest", "arms", "legs"],
+        "steps": [
+          [
+            ["Start in a standing position with your feet shoulder-width apart."],
+            ["Lower into a squat position and place your hands on the floor in front of you."]
+          ],
+          [
+            ["Kick your feet back into a push-up position and immediately drop your chest to the floor."],
+            ["Return your feet to the squat position quickly."],
+            ["Jump up into the air as high as you can, clapping your hands overhead."]
+          ]
+        ],
+        "description": "A high-intensity full-body exercise that improves cardiovascular fitness, strength, and endurance.",
+        "energy_level": 80
+      },
+      {
+        "name": "Mountain Climbers",
+        "target_group": ["core", "shoulders", "legs"],
+        "steps": [
+          [
+            ["Start in a plank position with your arms straight and your body forming a straight line from your head to your heels."]
+          ],
+          [
+            ["Drive your right knee towards your chest, then quickly switch legs, bringing your left knee towards your chest."],
+            ["Continue to alternate legs rapidly, as if running in place horizontally."]
+          ]
+        ],
+        "description": "A dynamic core exercise that also engages the shoulders and legs, improving cardiovascular endurance.",
+        "energy_level": 70
+      },
+      {
+        "name": "Deadlift",
+        "target_group": ["lower back", "glutes", "hamstrings"],
+        "steps": [
+          [
+            ["Stand with your feet hip-width apart, holding a barbell in front of you with an overhand grip."],
+            ["Bend at your hips and knees, lowering the barbell to the ground."]
+          ],
+          [
+            ["Keep your back straight and your chest up as you lift the barbell by extending your hips and knees."],
+            ["Stand tall at the top, then slowly lower the barbell back to the ground."]
+          ]
+        ],
+        "description": "A fundamental strength exercise that targets the posterior chain, improving overall strength and power.",
+        "energy_level": 65
+      },
+      {
+        "name": "Shoulder Press",
+        "target_group": ["shoulders", "triceps"],
+        "steps": [
+          [
+            ["Stand with your feet shoulder-width apart, holding a pair of dumbbells at shoulder height with your palms facing forward."]
+          ],
+          [
+            ["Press the dumbbells overhead until your arms are fully extended."],
+            ["Slowly lower the dumbbells back to the starting position."]
+          ]
+        ],
+        "description": "A key upper body exercise that strengthens the shoulders and triceps.",
+        "energy_level": 45
+      },
+      {
+        "name": "Russian Twist",
+        "target_group": ["core", "obliques"],
+        "steps": [
+          [
+            ["Sit on the floor with your knees bent and your feet flat on the ground."],
+            ["Lean back slightly and lift your feet off the ground, balancing on your sit bones."]
+          ],
+          [
+            ["Hold your hands together or a weight in front of you."],
+            ["Twist your torso to the right, then to the left, tapping the ground or weight beside you each time."]
+          ]
+        ],
+        "description": "An exercise that targets the core and oblique muscles, enhancing rotational strength and stability.",
+        "energy_level": 50
+      },
+      {
+        "name": "Bench Press",
+        "target_group": ["chest", "triceps", "shoulders"],
+        "steps": [
+          [
+            ["Lie on your back on a bench with a barbell in your hands."],
+            ["Grip the barbell with hands slightly wider than shoulder-width apart."]
+          ],
+          [
+            ["Lower the barbell to your chest."],
+            ["Press the barbell back up until your arms are fully extended."]
+          ]
+        ],
+        "description": "A compound exercise that primarily targets the chest muscles along with the triceps and shoulders.",
+        "energy_level": 70
+      },
+      {
+        "name": "Pull-Up",
+        "target_group": ["back", "biceps", "shoulders"],
+        "steps": [
+          [
+            ["Grab the pull-up bar with your palms facing away from you."],
+            ["Hang from the bar with your arms fully extended."]
+          ],
+          [
+            ["Pull yourself up until your chin is above the bar."],
+            ["Lower yourself back to the starting position."]
+          ]
+        ],
+        "description": "A bodyweight exercise that primarily targets the back muscles, particularly the lats, as well as the biceps and shoulders.",
+        "energy_level": 60
+      },
+      {
+        "name": "Leg Press",
+        "target_group": ["quadriceps", "glutes", "hamstrings"],
+        "steps": [
+          [
+            ["Sit on the leg press machine with your feet shoulder-width apart on the platform."],
+            ["Keep your back flat against the seat and your knees at a 90-degree angle."]
+          ],
+          [
+            ["Push the platform away by extending your legs until they are fully extended."],
+            ["Slowly return to the starting position."]
+          ]
+        ],
+        "description": "A machine-based exercise that targets the lower body muscles, particularly the quadriceps, glutes, and hamstrings.",
+        "energy_level": 55
+      },
+      {
+        "name": "Lat Pulldown",
+        "target_group": ["back", "biceps", "shoulders"],
+        "steps": [
+          [
+            ["Sit at a lat pulldown machine and grab the bar with a wide grip."],
+            ["Lean back slightly with your chest up."]
+          ],
+          [
+            ["Pull the bar down towards your chest, squeezing your shoulder blades together."],
+            ["Slowly return the bar to the starting position."]
+          ]
+        ],
+        "description": "A machine-based exercise that primarily targets the upper back muscles, particularly the lats, as well as the biceps.",
+        "energy_level": 50
+      },
+      {
+        "name": "Tricep Dips",
+        "target_group": ["triceps", "shoulders", "chest"],
+        "steps": [
+          [
+            ["Position yourself on parallel bars, holding your body up with your arms fully extended."],
+            ["Keep your legs bent and feet off the ground."]
+          ],
+          [
+            ["Lower your body until your elbows are at a 90-degree angle."],
+            ["Push yourself back up to the starting position."]
+          ]
+        ],
+        "description": "A bodyweight exercise that targets the triceps, shoulders, and chest muscles.",
+        "energy_level": 45
+      },
+      {
+        "name": "Hamstring Curl",
+        "target_group": ["hamstrings"],
+        "steps": [
+          [
+            ["Lie face down on a hamstring curl machine with the roller pad positioned just above your heels."],
+            ["Grip the handles for support."]
+          ],
+          [
+            ["Curl your legs up towards your buttocks, squeezing your hamstrings."],
+            ["Slowly lower the weight back to the starting position."]
+          ]
+        ],
+        "description": "A machine-based exercise that isolates and targets the hamstring muscles.",
+        "energy_level": 40
+      },
+      {
+        "name": "Calf Raises",
+        "target_group": ["calves"],
+        "steps": [
+          [
+            ["Stand on a raised surface with the balls of your feet on the edge."],
+            ["Keep your heels hanging off the edge."]
+          ],
+          [
+            ["Raise your heels as high as possible, contracting your calves."],
+            ["Lower your heels back down below the edge of the surface."]
+          ]
+        ],
+        "description": "An exercise that targets the calf muscles, improving lower leg strength and stability.",
+        "energy_level": 30
+      },
+      {
+        "name": "Side Plank",
+        "target_group": ["core", "obliques"],
+        "steps": [
+          [
+            ["Lie on your side with your feet stacked on top of each other."],
+            ["Prop yourself up with your forearm directly under your shoulder."]
+          ],
+          [
+            ["Raise your hips off the ground, forming a straight line from head to feet."],
+            ["Hold the position, keeping your core engaged."]
+          ]
+        ],
+        "description": "An isometric exercise that targets the core and oblique muscles, enhancing stability and strength.",
+        "energy_level": 35
+      },
+      {
+        "name": "Bicycle Crunches",
+        "target_group": ["core", "obliques"],
+        "steps": [
+          [
+            ["Lie on your back with your hands behind your head and your legs lifted, knees bent at 90 degrees."]
+          ],
+          [
+            ["Bring your right elbow towards your left knee while extending your right leg."],
+            ["Alternate sides in a pedaling motion, engaging your core."]
+          ]
+        ],
+        "description": "A dynamic exercise that targets the core and oblique muscles, improving rotational strength and endurance.",
+        "energy_level": 50
+      },
+      {
+        "name": "Kettlebell Swings",
+        "target_group": ["full body", "cardio", "glutes", "hamstrings"],
+        "steps": [
+          [
+            ["Stand with your feet shoulder-width apart, holding a kettlebell with both hands."],
+            ["Hinge at your hips and swing the kettlebell back between your legs."]
+          ],
+          [
+            ["Thrust your hips forward to swing the kettlebell up to shoulder height."],
+            ["Allow the kettlebell to swing back down between your legs and repeat."]
+          ]
+        ],
+        "description": "A dynamic full-body exercise that improves cardiovascular fitness, strength, and power, particularly targeting the posterior chain.",
+        "energy_level": 75
+      }
+    ]
+  }
+  
