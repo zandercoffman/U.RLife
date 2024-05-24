@@ -20,6 +20,7 @@ import {
   import exercises from "../exercises.json"
   import { Progress } from "@/components/ui/progress"
   import { Button } from "@/components/ui/button"
+import Link from "next/link";
 
 
   
@@ -81,7 +82,9 @@ export default async function ExercisePage() {
                                             </div>
 
                                             <div>
-                                                <Button variant="outline" >Exercise Now</Button>
+                                                <Link href={`/exercise/${exercise.name}`}>
+                                                    <Button variant="outline" >Exercise Now</Button>
+                                                </Link>
                                             </div>
                                         </div>
 
@@ -165,7 +168,9 @@ export default async function ExercisePage() {
                                                         </div>
 
                                                         <div>
-                                                            <Button variant="outline">Exercise Now</Button>
+                                                            <Link href={`/exercise/${exercise.name}`}>
+                                                                <Button variant="outline" >Exercise Now</Button>
+                                                            </Link>
                                                         </div>
                                                     </div>
 

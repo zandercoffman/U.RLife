@@ -65,7 +65,7 @@
         "energy_level": 55
       },
       {
-        "name": "Bicep Curls",
+        "name": "Bicep-Curls",
         "target_group": ["biceps"],
         "steps": [
           [
@@ -98,7 +98,7 @@
         "energy_level": 80
       },
       {
-        "name": "Mountain Climbers",
+        "name": "Mountain-Climbers",
         "target_group": ["core", "shoulders", "legs"],
         "steps": [
           [
@@ -129,7 +129,7 @@
         "energy_level": 65
       },
       {
-        "name": "Shoulder Press",
+        "name": "Shoulder-Press",
         "target_group": ["shoulders", "triceps"],
         "steps": [
           [
@@ -144,7 +144,7 @@
         "energy_level": 45
       },
       {
-        "name": "Russian Twist",
+        "name": "Russian-Twist",
         "target_group": ["core", "obliques"],
         "steps": [
           [
@@ -160,7 +160,7 @@
         "energy_level": 50
       },
       {
-        "name": "Bench Press",
+        "name": "Bench-Press",
         "target_group": ["chest", "triceps", "shoulders"],
         "steps": [
           [
@@ -192,7 +192,7 @@
         "energy_level": 60
       },
       {
-        "name": "Leg Press",
+        "name": "Leg-Press",
         "target_group": ["quadriceps", "glutes", "hamstrings"],
         "steps": [
           [
@@ -208,7 +208,7 @@
         "energy_level": 55
       },
       {
-        "name": "Lat Pulldown",
+        "name": "Lat-Pulldown",
         "target_group": ["back", "biceps", "shoulders"],
         "steps": [
           [
@@ -224,7 +224,7 @@
         "energy_level": 50
       },
       {
-        "name": "Tricep Dips",
+        "name": "Tricep-Dips",
         "target_group": ["triceps", "shoulders", "chest"],
         "steps": [
           [
@@ -240,7 +240,7 @@
         "energy_level": 45
       },
       {
-        "name": "Hamstring Curl",
+        "name": "Hamstring-Curl",
         "target_group": ["hamstrings"],
         "steps": [
           [
@@ -256,7 +256,7 @@
         "energy_level": 40
       },
       {
-        "name": "Calf Raises",
+        "name": "Calf-Raises",
         "target_group": ["calves"],
         "steps": [
           [
@@ -272,7 +272,7 @@
         "energy_level": 30
       },
       {
-        "name": "Side Plank",
+        "name": "Side-Plank",
         "target_group": ["core", "obliques"],
         "steps": [
           [
@@ -288,7 +288,7 @@
         "energy_level": 35
       },
       {
-        "name": "Bicycle Crunches",
+        "name": "Bicycle-Crunches",
         "target_group": ["core", "obliques"],
         "steps": [
           [
@@ -303,7 +303,7 @@
         "energy_level": 50
       },
       {
-        "name": "Kettlebell Swings",
+        "name": "Kettlebell-Swings",
         "target_group": ["full body", "cardio", "glutes", "hamstrings"],
         "steps": [
           [
